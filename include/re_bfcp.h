@@ -27,9 +27,9 @@ enum bfcp_prim {
 	BFCP_HELLO_ACK            = 12,
 	BFCP_ERROR                = 13,
 	BFCP_FLOOR_REQ_STATUS_ACK = 14,
-	BFCP_FLOOR_STATUS_ACK     = 15,
-	BFCP_GOODBYE              = 16,
-	BFCP_GOODBYE_ACK          = 17,
+	BFCP_FLOOR_STATUS_ACK     = 16,
+	BFCP_GOODBYE              = 17,
+	BFCP_GOODBYE_ACK          = 18,
 };
 
 /** BFCP Attributes */
